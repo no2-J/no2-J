@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=no2j)](https://solved.ac/no2j) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no2-J&layout=compact&theme=dracula) <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=no2-J&show_icons=true&theme=dracula) <br>
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fno2-J?color=purple&label=hits&size=small)](https://myhits.vercel.app)
 <!--
 **no2-J/no2-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
